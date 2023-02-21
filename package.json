@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/umarivale/refresh-token/issues"
   },
-  "homepage": "https://github.com/umarivale/refresh-token#readme"
+  "homepage": "https://github.com/umarivale/refresh-token#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
 }
